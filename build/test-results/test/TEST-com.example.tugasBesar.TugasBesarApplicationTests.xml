@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.tugasBesar.TugasBesarApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-12-07T11:26:28" hostname="SIHITAM" time="0.828">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.example.tugasBesar.TugasBesarApplicationTests" time="0.828"/>
+  <system-out><![CDATA[18:26:25.641 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.example.tugasBesar.TugasBesarApplicationTests]: TugasBesarApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+18:26:25.799 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.example.tugasBesar.TugasBesarApplication for test class com.example.tugasBesar.TugasBesarApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.4.0)
+
+2024-12-07T18:26:26.430+07:00  INFO 13968 --- [tugasBesar] [    Test worker] c.e.t.TugasBesarApplicationTests         : Starting TugasBesarApplicationTests using Java 17.0.13 with PID 13968 (started by Dusti in C:\Users\Dusti\Documents\IT_DUSTIN\semester 11\PBW\Tugas Besar\tugasBesar)
+2024-12-07T18:26:26.432+07:00  INFO 13968 --- [tugasBesar] [    Test worker] c.e.t.TugasBesarApplicationTests         : No active profile set, falling back to 1 default profile: "default"
+2024-12-07T18:26:28.011+07:00  INFO 13968 --- [tugasBesar] [    Test worker] c.e.t.TugasBesarApplicationTests         : Started TugasBesarApplicationTests in 1.963 seconds (process running for 3.551)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
